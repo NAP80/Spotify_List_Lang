@@ -1,0 +1,28 @@
+{
+    "artists": [
+        {
+            "name": "Artist 1",
+            "id": "xxxxxxxxxxxx",
+            "lang_main": "fr",
+            "lang_alt": ["en"]
+        },
+        {
+            "name": "Artist 2",
+            "id": "yyyyyyyyyyyy",
+            "lang_main": "en",
+            "lang_alt": ["fr"]
+        },
+        {
+            "name": "Artist 3",
+            "id": "zzzzzzzzzzzz",
+            "lang_main": "en",
+            "lang_alt": ["es"]
+        },
+        {
+            "name": "Artist 4",
+            "id": "wwwwwwwwwwww",
+            "lang_main": "fr",
+            "lang_alt": ["en","es"]
+        }
+    ]
+}
