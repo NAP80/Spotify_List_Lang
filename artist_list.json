@@ -575,6 +575,174 @@
       "id": "2cyIBdUzrrFOSAOTS3jhem",
       "lang_main": "eng",
       "lang_alt": [""]
+    },
+    {
+      "name": "GAZ FABILOUSS",
+      "id": "6oM8IaVeHCW8MeUkACNo3z",
+      "lang_main": "lin",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "LORD LOMBO",
+      "id": "7LYWtUyWFb2GIE5sjigMvX",
+      "lang_main": "fra",
+      "lang_alt": ["lin"]
+    },
+    {
+      "name": "Athoms et Nadège",
+      "id": "1uA17Fnp8WZMK1QHO4rBYL",
+      "lang_main": "fra",
+      "lang_alt": ["lin"]
+    },
+    {
+      "name": "Ferre Gola",
+      "id": "0is7KJiz3t87LiJWUO1tNI",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Fally Ipupa",
+      "id": "6IflU2YrY5Cyw7YoBICosV",
+      "lang_main": "fra",
+      "lang_alt": ["lin"]
+    },
+    {
+      "name": "Mike Kalambay",
+      "id": "6JrKAZX6GY55wH27xlcMX9",
+      "lang_main": "lin",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Franck Mulaja",
+      "id": "5iTPAaq4zl5SNSGvtLbz5u",
+      "lang_main": "lin",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Henri-Papa Mulaja",
+      "id": "4NF7zwUvNRWEKXOXTC08i4",
+      "lang_main": "lin",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Adorons L'eternel",
+      "id": "2Z9LJra5DmZnFSRYyXTxCI",
+      "lang_main": "fra",
+      "lang_alt": ["lin"]
+    },
+    {
+      "name": "Innoss'B",
+      "id": "1nLQWXXs7ZauI4SC6rUFPV",
+      "lang_main": "lin",
+      "lang_alt": ["eng", "fra"]
+    },
+    {
+      "name": "Gally",
+      "id": "77leAzJhNtGmrB9EzWxBv7",
+      "lang_main": "lin",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Gael Music",
+      "id": "22GYlC6CDxU11R37U47r7s",
+      "lang_main": "lin",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Deborah Lukalu",
+      "id": "1FDUbvMKJUBLYUZwq5wVIm",
+      "lang_main": "lin",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Koffi Olomide",
+      "id": "7e14Bh8oZXNRmZxjhhTARb",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Werrason",
+      "id": "3aU2pbMucMTW4NYF3ISuVO",
+      "lang_main": "lin",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Gaz Mawete",
+      "id": "4WSA56zRr2ZBnbQqVNrMay",
+      "lang_main": "lin",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Francis Nsemi",
+      "id": "570YEJuJif5FtXMLu41zJf",
+      "lang_main": "lin",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Moise Mbiye",
+      "id": "4MItnz1kblQpPF3BwQKGwJ",
+      "lang_main": "lin",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "PATRICE MUBIAYI",
+      "id": "1c2NZWI9gGbcCHuLDVRMDK",
+      "lang_main": "lin",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Aime Nkanu",
+      "id": "3oAJu1vU7RCp2r3TnJChYV",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Damso",
+      "id": "2UwqpfQtNuhBwviIC0f2ie",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Black Gryph0n",
+      "id": "4ET82ZtSfAK4utfjDauImD",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Bernard Minet",
+      "id": "1BoKBYU77hUJ4HRcZEtsbt",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "EarlyRise",
+      "id": "1aB92Ijb2TBVudO2te7r5c",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Oligarkh",
+      "id": "2kWiOL8Vy40c0HsOYpLRqM",
+      "lang_main": "rus",
+      "lang_alt": [""]
+    },
+    {
+      "name": "No Mercy",
+      "id": "2tUGlReCZRMoRgl0IS79i3",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "CHICKEN SOUP",
+      "id": "6CRinnD3nl4kRAgIEIaHdn",
+      "lang_main": "none",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Doug Laurent",
+      "id": "6A0XX1Q7EtLcNCxETMgqoZ",
+      "lang_main": "none",
+      "lang_alt": [""]
     }
   ]
 }
