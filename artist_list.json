@@ -238,7 +238,7 @@
       "name": "Cécile Corbel",
       "id": "4mVQMbJAHOazLrBmgpgB8M",
       "lang_main": "fra",
-      "lang_alt": ["jpn","eng"]
+      "lang_alt": ["jpn", "eng"]
     },
     {
       "name": "Feuilles de Roots",
@@ -742,6 +742,372 @@
       "name": "Doug Laurent",
       "id": "6A0XX1Q7EtLcNCxETMgqoZ",
       "lang_main": "none",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Cachemire",
+      "id": "4AJBNggqryKH5Dy0xdaGDY",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Nino Ferrer",
+      "id": "3THqHCN7gq2Z9hLleof9uv",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Belyscendre",
+      "id": "1jRfIqegpnkLPu8jgStcCD",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Matmatah",
+      "id": "4bhynkwu2d1ZbjPTNBkI2t",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Tri Yann",
+      "id": "6OXSrGlkNcEPPLJTIrwr3u",
+      "lang_main": "fra",
+      "lang_alt": ["bre"]
+    },
+    {
+      "name": "Jean Ferrat",
+      "id": "4GAdDePOvBsOl3n3nVHWpt",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Sylvie Berger",
+      "id": "5asdwQHeP7LngAHye0CvmC",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Mansfield.TYA",
+      "id": "4Rnbihd9aa3KWygk38BAZL",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Thomas Gauthier",
+      "id": "1o1lGge9gBLbaWPQ6QncqQ",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "La Femme",
+      "id": "5VTWoYYizcOY3uIKnxeCGI",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "ELISA ERKA",
+      "id": "1EkqwqtzsjxMYJZH73RFVM",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Márcio Faraco",
+      "id": "6n3BBw9YDpMMuQOftR9TzJ",
+      "lang_main": "ita",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Pierre Lapointe",
+      "id": "6zmMGBnFE2DCkAxaCVULRP",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Laïs",
+      "id": "7m63iuojSjbH01e3iLMhxO",
+      "lang_main": "nld",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Pomme",
+      "id": "6e3pZKXUxrPfnUPJ960Hd9",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Thierry Hazard",
+      "id": "21h26EWdy9snENqbeAZorA",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "P.R2B",
+      "id": "6R6tuqCxJRopO4bE8nfLGk",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Claude Dubois",
+      "id": "4rGzQTq5qCKLme91gDHBeh",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Les Fatals Picards",
+      "id": "3oaj9AlMadVi3FkChhwFAz",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Les Tit' Nassels",
+      "id": "1cZthYGjUVOGcPbymiznkC",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "La Grande Sophie",
+      "id": "76IqDKTydgWzyIuNpUD3Jg",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Julien Clerc",
+      "id": "7gVzeNvBbUpj6PXX5ekCMs",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "The Pirouettes",
+      "id": "1Jp2BVxy67R0OaudOV9lm1",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Gaël Faye",
+      "id": "69irZ4R8OsrLHjr6VmMmMg",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Mylène Farmer",
+      "id": "0e04xgVBPU6mE2QkSHlufD",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Krego",
+      "id": "1XO8SvOvZCQCExDA4FYnkK",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Toumani Diabaté",
+      "id": "2nCACYdIndYchzX4bxLcTW",
+      "lang_main": "bam",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Starmania",
+      "id": "4VOX5R6FyddOOtzKgY8OGv",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Sidiki Diabaté",
+      "id": "0ShXtJGjzmboEPVOvIdbQA",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Fatoumata Diawara",
+      "id": "4G5ZJny3HvX6Il7eHVfnNC",
+      "lang_main": "bam",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "I Quattro",
+      "id": "7qaZo9C4wS2eOjaT574EOm",
+      "lang_main": "ita",
+      "lang_alt": [""]
+    },
+    {
+      "name": "François Valéry",
+      "id": "6hrDcxZGo1ttL06YYQP784",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Bernard Lavilliers",
+      "id": "20YtJDRaSzJREUlVvNfYB3",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Pierre Vassiliu",
+      "id": "49NlklXdh2UFIW4VUu4fPx",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Julie Pietri",
+      "id": "4siBlVknVhh8jtVy9jHsDG",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Les Rita Mitsouko",
+      "id": "7CdlYgtOoxBtNjuDeIxSPM",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Hervé Cristiani",
+      "id": "4ml7309NlaZaAHeBUOThVx",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Yannick Noah",
+      "id": "0BCkVcs4QEgfHlvZ7rjSNv",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Joe Dassin",
+      "id": "64LCTpIu9Iji2EPaxxPpxF",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Brigitte Bardot",
+      "id": "1q24xIsAD7JZuVkTLR9TJy",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Francisco Raquiza",
+      "id": "4lUhdXIkIvvjQzr07w8FAw",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Jacqueline Taieb",
+      "id": "2gaXk926O69Od01e5CSFdH",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Alain Bashung",
+      "id": "6y1aZyP40077De3neGJD2b",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Étienne Daho",
+      "id": "5aDKJuLDczfmHfRSOmHCJk",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Gilbert Bécaud",
+      "id": "31GFatrHl2ijnS4ZAWA9s0",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Charles Aznavour",
+      "id": "2hgP9Ap2tc10R5jrQaEpMT",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Serge Gainsbourg",
+      "id": "01C9OoXDvCKkGcf735Tcfo",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Slogan",
+      "id": "66boGo8K2qr6afswGwmRaS",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Felipecha",
+      "id": "2CnFF3lpGueIc1G0z9DaGh",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Gwendoline",
+      "id": "0KeEMBn34d4rKeACHxK9AF",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "La Rue Kétanou",
+      "id": "5RJtcUSgNu7Y3X9YmZDci9",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Nicoletta",
+      "id": "1XspV6teuaJMwVq0QBXZA0",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Volo",
+      "id": "11T4vCBbGWjL5boJmWeiw9",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Sinsémilia",
+      "id": "7xtiaP8V8z95pASVuIrCRY",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Merzhin",
+      "id": "4ni1VfqTNIvsJKTDuiN64f",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "William Sheller",
+      "id": "2fJzcOo1URtFQr5rkF5kC8",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Zebda",
+      "id": "0eOdRJIL6L8AInJLre2uIP",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Jean-Louis Murat",
+      "id": "1vSHzGHsVOCrgPSCmKNimP",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Faada Freddy",
+      "id": "7EBwTCv2UZ1vm4WmfNCiEK",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Jacques Dutronc",
+      "id": "3ayds6VIVBx3CU5NSNCDbq",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Le trottoir",
+      "id": "0z6rhcwWAD4Oi2J9bLKHbD",
+      "lang_main": "fra",
       "lang_alt": [""]
     }
   ]
