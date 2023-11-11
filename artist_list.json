@@ -1,28 +1,22 @@
 {
     "artists": [
         {
-            "name": "Artist 1",
-            "id": "xxxxxxxxxxxx",
-            "lang_main": "fr",
-            "lang_alt": ["en"]
-        },
-        {
-            "name": "Artist 2",
-            "id": "yyyyyyyyyyyy",
+            "name": "Dark Rooms",
+            "id": "0zkI8Gci7muk180ACGwlxh",
             "lang_main": "en",
             "lang_alt": ["fr"]
         },
         {
-            "name": "Artist 3",
-            "id": "zzzzzzzzzzzz",
-            "lang_main": "en",
-            "lang_alt": ["es"]
+            "name": "Lil Candy Paint",
+            "id": "en",
+            "lang_main": "Default",
+            "lang_alt": [""]
         },
         {
-            "name": "Artist 4",
-            "id": "wwwwwwwwwwww",
-            "lang_main": "fr",
-            "lang_alt": ["en","es"]
+            "name": "Bhad Bhabie",
+            "id": "7DuTB6wdzqFJGFLSH17k8e",
+            "lang_main": "en",
+            "lang_alt": ["en"]
         }
     ]
 }

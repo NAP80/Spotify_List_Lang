@@ -1,5 +1,5 @@
 # Spotify List Lang
-Spotify artist database by singing language, with link, name and Spotify ID.
+Spotify artist database by singing language, with name and Spotify ID.
 
 ## Properties :
 
