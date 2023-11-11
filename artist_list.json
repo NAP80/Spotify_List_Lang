@@ -1,22 +1,580 @@
 {
-    "artists": [
-        {
-            "name": "Dark Rooms",
-            "id": "0zkI8Gci7muk180ACGwlxh",
-            "lang_main": "en",
-            "lang_alt": ["fr"]
-        },
-        {
-            "name": "Lil Candy Paint",
-            "id": "en",
-            "lang_main": "Default",
-            "lang_alt": [""]
-        },
-        {
-            "name": "Bhad Bhabie",
-            "id": "7DuTB6wdzqFJGFLSH17k8e",
-            "lang_main": "en",
-            "lang_alt": ["en"]
-        }
-    ]
+  "artists": [
+    {
+      "name": "Dark Rooms",
+      "id": "0zkI8Gci7muk180ACGwlxh",
+      "lang_main": "eng",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Lil Candy Paint",
+      "id": "7eKI9e9Oa1muxmRwoY40kv",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Bhad Bhabie",
+      "id": "7DuTB6wdzqFJGFLSH17k8e",
+      "lang_main": "eng",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Caladh Nua",
+      "id": "1eCxz8sMdQHmwV4XtZxNEV",
+      "lang_main": "eng",
+      "lang_alt": ["gle"]
+    },
+    {
+      "name": "Iñigo Montoya",
+      "id": "4DXEcjUIcIxRBpjST8HpoV",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Alpine Universe",
+      "id": "2p2f0IoFel8v0mdBqGsw1C",
+      "lang_main": "eng",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Manu Chao",
+      "id": "6wH6iStAh4KIaWfuhf0NYM",
+      "lang_main": "spa",
+      "lang_alt": ["eng", "fra"]
+    },
+    {
+      "name": "Pakito",
+      "id": "4FHn7iPrkpqsUTwRSxfX4l",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Sandy Marton",
+      "id": "1D33JhHkXxj78Y8oiyg41L",
+      "lang_main": "spa",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Saez",
+      "id": "2yQBgACksUJgNKh1JWPWPe",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Zaoui",
+      "id": "5nrmuhl0AXvSLeoZgB3Tmr",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Sinnon Nightcore",
+      "id": "1EmTfHqOYzHB4IvF1iWSs7",
+      "lang_main": "eng",
+      "lang_alt": ["0"]
+    },
+    {
+      "name": "Bon Entendeur",
+      "id": "2lwjwKfYZCuPEJOo8t32CD",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Thomas Fersen",
+      "id": "1e8wNOOTAfcvZnYAqxqHZM",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Bradaframanadamada",
+      "id": "1dLlza44Rd4gbJEkpuOndU",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Malicorne",
+      "id": "2qcMbfpQ7bUpUwN73vIQXn",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Pokémon",
+      "id": "6goK4KMSdP4A8lw8jk4ADk",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Paul Martin",
+      "id": "5xbMJDVjKr949s4UOH4RqF",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Stupeflip",
+      "id": "7qiRNP9z0FhN63YcLmb8Ai",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Philippe Lavil",
+      "id": "7doURsj1UtIUUeW2kwNwWw",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "RORI",
+      "id": "1VGFnvgAwxMlV8D729gs5I",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "MC Salo",
+      "id": "1quV4CgipPwybFtikATOBc",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Claire Diterzi",
+      "id": "7rBVeyli30WgThrTij6qR6",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Vianney",
+      "id": "4Nrd0CtP8txoQhnnlRA6V6",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Magenta Club",
+      "id": "5du1Lf0YKbak13Ym58jKsA",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Hiks",
+      "id": "1xSFDesNE2xF5AjV9pGCvF",
+      "lang_main": "bre",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "GingerBear",
+      "id": "6nZpi8GuoNLDXRb8YwQAlc",
+      "lang_main": "hun",
+      "lang_alt": [""]
+    },
+    {
+      "name": "ascendant vierge",
+      "id": "3IMOGrM63og03I4jMYo35G",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Les keke-boys",
+      "id": "1WJvR5DfXC6cZizgMyEg11",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "MC Solaar",
+      "id": "3nU8TSIICYDbUqRpJISTRE",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Michel Polnareff",
+      "id": "7aKldvGENbL4bj8TCWHuhT",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Lou",
+      "id": "6iHKWDaniE1NyU3xZ7FeGg",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Mili",
+      "id": "0K05TDnN7xPwIHDOwD2YYs",
+      "lang_main": "jpn",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "James Baker",
+      "id": "0enzx5Bq2F7Rq5BN9kWXJl",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Dub Inc",
+      "id": "0fSuChlRe8ZYtVFYDoG87U",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Jacques Cardona",
+      "id": "6QFGYncCDUwpCxm64DQNha",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "The Living Tombstone",
+      "id": "0I6yADrmeyvw66g7yjkqIF",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Gaëtan Roussel",
+      "id": "2FDsdMev4pzIXwoJGXi9zf",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Gabriel Yacoub",
+      "id": "6Q43tC6Q0CQteXeicXJSbv",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Cécile Corbel",
+      "id": "4mVQMbJAHOazLrBmgpgB8M",
+      "lang_main": "fra",
+      "lang_alt": ["jpn","eng"]
+    },
+    {
+      "name": "Feuilles de Roots",
+      "id": "7Acyd5xLYPwTZawz9iqDL3",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Plantec",
+      "id": "3XCS1EtyqxRQ7PRedcC4WF",
+      "lang_main": "bre",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "Partenaire Particulier",
+      "id": "5jsIYrxcANUkZQPfCdfEWe",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "MB14",
+      "id": "5pWWDUGa89yZyjOGqgSKWB",
+      "lang_main": "eng",
+      "lang_alt": ["ara"]
+    },
+    {
+      "name": "Philippe Chatel",
+      "id": "11obvOX6okv1svVKRHMiBv",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Lujipeka",
+      "id": "1eTRyiHsWMoWKPD6s4Kiqt",
+      "lang_main": "fran",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Big Bad Bosses",
+      "id": "59QILJMrgLz4d4PJLIq8jn",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Graeme Allwright",
+      "id": "0IacSUFvqg5bMJZFfEwsIO",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Michel Berger",
+      "id": "5skauLarl8sqqUFypECtP4",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Indochine",
+      "id": "7knmbOGe07k85GmK50vACB",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "No One Is Innocent",
+      "id": "3xYWXsDjB4Kfl6EY2hibO3",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Dj Cutman",
+      "id": "1IwzmBTWI4CzUNsZM7Zqd8",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Debout Sur Le Zinc",
+      "id": "2IScPq8PNlEgMrxY22iufh",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Une touche d'optimisme",
+      "id": "4sG5GeG7qK060XBll1R5ap",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Véronique Sanson",
+      "id": "4zxH2Yu5AvPNRdEDBz120D",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Deportivo",
+      "id": "7k8b9tyD9a0WEoPgidHrGK",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Alain Souchon",
+      "id": "5LVp2pGNzmOQqXzziBBR5x",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Shiruvin",
+      "id": "0UPZ1bVyaYFOU5CUGowp9x",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Moisés Nieto",
+      "id": "6i5jeqNyrzyfDwIiAfNdyF",
+      "lang_main": "none",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Les R'tardataires",
+      "id": "5O77lPWfGIExjWSSwpSk3u",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Paco",
+      "id": "4MxrhgzxFZL2BTybcP0q2h",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Magoyond",
+      "id": "69NyHXNjgqvV4euhqZ36kH",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Plamenev",
+      "id": "48FfQ28RWPLx6bjzRThnZv",
+      "lang_main": "rus",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Ofenbach",
+      "id": "4AKwRarlmsUlLjIwt38NLw",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Eddy Mitchell",
+      "id": "4KBk9hwqFYtGS3DlZJiCsQ",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Michel Delpech",
+      "id": "4T795JhhCZMWM01DLcX98p",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "-M-",
+      "id": "6soPpJHlCtN6SY8pWlfbC6",
+      "lang_main": "fra",
+      "lang_alt": ["eng"]
+    },
+    {
+      "name": "Dracula",
+      "id": "4KjdHIqdcmlO5dv6p0r9Iz",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Augustin Parsy",
+      "id": "1gdhvHRrYfKcWBIfTj0To4",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Francis Mercier",
+      "id": "44qAhQu52dYKcHOFQd3esf",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Nikola",
+      "id": "0JEBnGhyAmu2hlEgZE2Ydj",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Ed Goldfarb",
+      "id": "20v1pWVDGh4qNUlJeoCGef",
+      "lang_main": "none",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Cadillac",
+      "id": "7qORCGgutS0QON7vez8C4N",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Lorenzo",
+      "id": "62zLrboqOTPyozwi721CVy",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Marie-Paule Belle",
+      "id": "5TJtUGoycg3jeyBYH4IW9k",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Missah & Weedo",
+      "id": "1CTbK0GNO03IBVusZ1MjVx",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Cherry 葵 Nightcore",
+      "id": "4H502w3aY9YWNIPWTx8adz",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "L'Amour Plus Fort Que La Mort",
+      "id": "5SE6zBt5CQLx8OSuMaLlOt",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Adryano",
+      "id": "2UDlaOGt9VWAqsbNmsYzYk",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Louis Chedid",
+      "id": "2rBb2WwvpcIHNiofmw22vn",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Union du son",
+      "id": "3d2NN5aMjfAvjdm547O2kV",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Gargäntua",
+      "id": "1ScFJG5ccOnTPPUin8cPFu",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Babylon Circus",
+      "id": "3crfLODQuodxW8R8iLqkPH",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Léman",
+      "id": "2EnOL1ADehfBQB03ELa3QQ",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Eiffel",
+      "id": "5IiWXFMbz2luGGkdzSBNhJ",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Sttellla",
+      "id": "7eh36YiTKBxxhCChxbuN1j",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Genesis",
+      "id": "3CkvROUTQ6nRi9yQOcsB50",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "BENNETT",
+      "id": "1r43wW70tnGUauQYvY5w48",
+      "lang_main": "eng",
+      "lang_alt": ["fra"]
+    },
+    {
+      "name": "ASTERO-H",
+      "id": "4R15nQ1tIZGKIq7Z8BddVI",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "ICHI",
+      "id": "7fef7GzZZrPZVZArGAjAyE",
+      "lang_main": "none",
+      "lang_alt": [""]
+    },
+    {
+      "name": "La Bouche",
+      "id": "488v7rQzthLNK22r0UvMie",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Oliver Tree",
+      "id": "6TLwD7HPWuiOzvXEa3oCNe",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Serge Lama",
+      "id": "3fR5PRhFohNbxEXDE69pUz",
+      "lang_main": "fra",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Guillaume Pladys",
+      "id": "6uQkDoYqzD69w4LMM1mOQc",
+      "lang_main": "none",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Boney M.",
+      "id": "54R6Y0I7jGUCveDTtI21nb",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    },
+    {
+      "name": "Ben Dixon",
+      "id": "2cyIBdUzrrFOSAOTS3jhem",
+      "lang_main": "eng",
+      "lang_alt": [""]
+    }
+  ]
 }
